@@ -1,4 +1,4 @@
-# taller-algoritmos-evolutivos-uv
+# Taller Algoritmos Evolutivos UV
 
 ## Material del taller
 
